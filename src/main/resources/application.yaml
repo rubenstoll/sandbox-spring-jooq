@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sandbox-spring-jooq
+  h2:
+    console:
+      enabled: false
